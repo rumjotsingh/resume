@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #8de190;
+    
+    padding: 10px 20px;
+    text-align: center;
+    
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 5px;
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #4CAF50;
+    color: white;
+}
+a{
+    text-decoration: none;
+     font-weight: 500;
+     font-size: 15px;
+     
+     
+}
+.sities{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #f3f3f6;
+}
+.phone{
+    color: beige;
+}
+.github,.linkedin,.geek{
+    height: 30px;
+    width:30px;
+}
